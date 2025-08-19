@@ -1,1 +1,9 @@
-
+{
+  "API_KEY": "replace_me",
+  "USER_ROLE": "admin",
+  "PERMISSIONS": [
+    "scan",
+    "analyze",
+    "report"
+  ]
+}
